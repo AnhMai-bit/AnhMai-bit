@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me queanh.mai1@mail.com
 
+* The side projects on my profile, including Tic Tac Toe, 
 <!---
 AnhMai-bit/AnhMai-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
