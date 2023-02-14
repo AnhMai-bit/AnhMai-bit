@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AnhMai-bit
+- I'm current a second-year student in Nanotech Engineering at UWaterloo
 - 👀 I’m interested in tech, nanotech and environmental solutions!
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me aqmai@uwaterloo.ca
